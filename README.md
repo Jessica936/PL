@@ -5,4 +5,5 @@
 
 # >課程筆記區🖊️
 # >作業連結區📖
+[0914課程練習](https://github.com/Jessica936/PL/tree/main/0914%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
 # >專題連結區🔗
