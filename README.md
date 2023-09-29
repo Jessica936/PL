@@ -7,4 +7,5 @@
 * [0914課程練習](https://github.com/Jessica936/PL/tree/main/0914%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
 * [0928課堂練習](https://github.com/Jessica936/PL/tree/main/0928%20%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92)
 ## 作業連結區🪄
+* [HW1](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
 ## 專題連結區🔗
