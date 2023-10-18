@@ -12,4 +12,5 @@
   * [正則化參考資料](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 ## 作業連結區🪄
 * [HW1](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
+* [HW2](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
 ## 專題連結區🔗
