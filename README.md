@@ -13,4 +13,5 @@
 ## 作業連結區🪄
 * [HW1](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
 * [HW2](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
+* [HW3](https://github.com/Jessica936/PL/tree/main/Python-hw3)
 ## 專題連結區🔗
