@@ -11,8 +11,8 @@
 * #### 何謂正則化?
   * [正則化參考資料](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
 ## 作業連結區🪄
-* [HW1](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
-* [HW2](https://github.com/Jessica936/PL/tree/main/Python-hw2)
-* [HW3](https://github.com/Jessica936/PL/tree/main/Python-hw3)
-* [HW4](https://github.com/Jessica936/PL/tree/main/Python-hw4)
+* [HW1--資料分析 套件:Pandas](https://github.com/Jessica936/PL/blob/main/Python-hw1/H1.ipynb)
+* [HW2--資料視覺化](https://github.com/Jessica936/PL/tree/main/Python-hw2)
+* [HW3--網頁爬蟲分析](https://github.com/Jessica936/PL/tree/main/Python-hw3)
+* [HW4--文字探勘：生成文字雲](https://github.com/Jessica936/PL/tree/main/Python-hw4)
 ## 專題連結區🔗
