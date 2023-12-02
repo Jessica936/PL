@@ -15,4 +15,5 @@
 * [HW2--資料視覺化](https://github.com/Jessica936/PL/tree/main/Python-hw2)
 * [HW3--網頁爬蟲分析](https://github.com/Jessica936/PL/tree/main/Python-hw3)
 * [HW4 Medium--文字探勘：生成文字雲](https://medium.com/@lin.jessica69/%E5%88%A9%E7%94%A8python%E9%80%B2%E8%A1%8C%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-%E6%96%87%E5%AD%97%E9%9B%B2-fba487524e7f)/[Code](https://github.com/Jessica936/PL/tree/main/Python-hw4)
+* [HW5 Medium--文字探勘：Textblob情感分析](https://medium.com/@lin.jessica69/%E5%88%A9%E7%94%A8python%E9%80%B2%E8%A1%8C%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-textblob-90bca20a26b6)/[Code](https://github.com/Jessica936/PL/tree/main/Python-hw5)
 ## 專題連結區🔗
